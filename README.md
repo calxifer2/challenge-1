@@ -17,6 +17,8 @@ Tu misión, si decides aceptarla,  será construir la landing page del blog pers
 La entrega final deberá cumplir como mínimo los siguientes items:
 
 - Todas la imágenes deberán incluir ALTs
+- Utilizar BEM
+- Utiliza HTML Semántico
 - Tu código HTML y CSS deberá ser formateado a 2 espacios
 - El código debe ser legible y ordenado
 - Desplegar tu solución utilizando github pages
