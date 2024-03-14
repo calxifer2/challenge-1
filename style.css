@@ -1,0 +1,305 @@
+body {
+  background: white;
+  max-width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.target {
+  font-family: Roboto;
+}
+
+.box {
+  width: 110px;
+  height: 39px;
+  top: 209px;
+  border-radius: 25px;
+  position: absolute;
+  left: 133px;
+  background: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.text {
+  width: 66px;
+  height: 19px;
+  top: 219px;
+  left: 1px;
+}
+
+.text1 {
+  position: absolute;
+  color: #FFFFFF;
+  width: 126px;
+  height: 20px;
+  top: 217px;
+  left: 271px;
+}
+
+
+.image-small {
+  width: 574.38px;
+  height: 340px;
+}
+
+.image-container {
+  position: relative;
+}
+
+.title {
+  position: absolute;
+  color: white;
+  width: 720px;
+  height: 106px;
+  top: 267px;
+  left: 133px;
+}
+
+.text2 {
+  position: absolute;
+  color: white;
+  width: 535px;
+  height: 74px;
+  top: 393px;
+  left: 133px;
+}
+
+.image-avatar {
+  position: absolute;
+  width: 65px;
+  height: 73px;
+  top: 487px;
+  left: 133px;
+  border-radius: 50px;
+}
+
+.text3 {
+  position: absolute;
+  width: 132px;
+  height: 23px;
+  top: 512px;
+  left: 221px;
+  color: white;
+}
+
+.image {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1300px;
+  height: 658px;
+  top: 83px;
+  left: 70px;
+  margin: 30px;
+  border-radius: 6%;
+}
+
+
+.text4 {
+  width: 126px;
+  height: 23px;
+  top: 821px;
+  left: 70px;
+  margin: 2% 0% 0% 5%;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.text4:after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid black;
+  margin-top: 10px;
+  width: 1146px;
+  top: 832.56px;
+  left: 224px;
+  border: 1px;
+
+}
+
+.image-small {
+  width: 574.38px;
+  height: 340px;
+  margin: 2% 5% 2% 5%;
+  border-radius: 5%;
+}
+
+img {
+  box-shadow: 4px 4px 4px 4px gray;
+
+}
+
+.text5 {
+  position: absolute;
+  width: 500px;
+  height: 76px;
+  top: 770px;
+  left: 694px;
+  color: #4F4F4F;
+}
+
+.text6 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 850px;
+  left: 692px;
+
+}
+
+.text7 {
+  position: absolute;
+  width: 500px;
+  height: 76px;
+  top: 1190px;
+  left: 694px;
+  color: #4F4F4F;
+}
+
+.text8 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 1250px;
+  left: 692px;
+
+}
+
+.text9 {
+  position: absolute;
+  width: 500px;
+  height: 76px;
+  top: 1580px;
+  left: 694px;
+  color: #4F4F4F;
+}
+
+.text10 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 1630px;
+  left: 692px;
+
+}
+
+.box1-Marketing1 {
+  position: absolute;
+  width: 110px;
+  height: 34px;
+  top: 1000px;
+  left: 692px;
+  background: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 25px;
+}
+
+
+.text11 {
+  width: 66px;
+  height: 19px;
+  top: 219px;
+  left: 1px;
+  color: #4F4F4F;
+}
+
+.text12 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 990px;
+  left: 880px;
+}
+
+.text13 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 990px;
+  left: 1100px;
+}
+
+.box2-Marketing1 {
+  position: absolute;
+  width: 110px;
+  height: 34px;
+  top: 1400px;
+  left: 692px;
+  background: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 25px;
+}
+
+.text14 {
+  width: 66px;
+  height: 19px;
+  top: 219px;
+  left: 1px;
+  color: #4F4F4F;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.text15 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 1400px;
+  left: 880px;
+}
+
+.text16 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 1400px;
+  left: 1100px;
+}
+
+.box3-Marketing1 {
+  position: absolute;
+  width: 110px;
+  height: 34px;
+  top: 1800px;
+  left: 692px;
+  background: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 25px;
+}
+
+.text18 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 1800px;
+  left: 880px;
+}
+
+.text19 {
+  position: absolute;
+  width: 500px;
+  height: 74px;
+  top: 1800px;
+  left: 1100px;
+}
